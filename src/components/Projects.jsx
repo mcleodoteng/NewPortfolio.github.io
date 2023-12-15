@@ -18,9 +18,15 @@ const Projects = () => {
         Projects
       </h1>
       <p className="text-center py-8">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-        obcaecati ex quia repudiandae quis! Ullam dolore maiores optio ex vitae
-        explicabo. Saepe incidunt nesciunt in quam, sit neque quia cumque.
+        Explore my frontend projects portfolio, a curated collection of
+        captivating web development endeavors. From crafting pixel-perfect
+        interfaces to implementing seamless user experiences, each project
+        demonstrates my commitment to marrying creativity with functionality.
+        Whether it&apos;s responsive design, dynamic animations, or intuitive
+        user interfaces, this portfolio encapsulates my passion for bringing
+        ideas to life in the digital realm. Dive into the showcase to witness
+        firsthand the fusion of design finesse and technical expertise. Your
+        journey into the world of frontend excellence awaits.
       </p>
       <div className="grid sm:grid-cols-2 gap-12">
         <ProjectsItem
